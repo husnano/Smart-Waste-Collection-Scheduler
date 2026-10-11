@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" role="img" aria-label="Recycling illustration">
+  <ellipse cx="240" cy="390" rx="180" ry="22" fill="#e8f7f5"/>
+  <path d="M120 120h240v220H120z" fill="#00b8ad" rx="8"/>
+  <path d="M140 140h200v180H140z" fill="#fff" opacity="0.15"/>
+  <path d="M200 80l40-40 40 40h-30v40h-60V80z" fill="#7eddd6"/>
+  <circle cx="240" cy="230" r="52" fill="none" stroke="#fff" stroke-width="14"/>
+  <path d="M240 195l0 35 28-18z" fill="#fff"/>
+  <path d="M240 265l0-35-28 18z" fill="#fff"/>
+  <path d="M205 230l35 0-18 28z" fill="#fff"/>
+  <path d="M275 230l-35 0 18-28z" fill="#fff"/>
+  <rect x="300" y="200" width="90" height="12" rx="6" fill="#7eddd6" transform="rotate(-25 345 206)"/>
+  <circle cx="330" cy="170" r="22" fill="#ffd4a8"/>
+  <rect x="318" y="192" width="24" height="70" rx="8" fill="#5bb8ff"/>
+  <rect x="352" y="250" width="50" height="8" rx="4" fill="#7eddd6" transform="rotate(-15 377 254)"/>
+</svg>
